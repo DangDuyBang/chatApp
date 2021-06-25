@@ -1,0 +1,23 @@
+Dữ liệu mẫu đầy đủ
+UI hợp lí chỉnh chu gọn gàng
+Hoàn thiện. đảm bảo tính năng k bị lỗi
+Chuẩn bị các demo trên máy tính và thiết bị di động
+update đầy đủ sources lên github
+
+Báo cáo file Word và file Pdf (Rõ ràng, xác định, nêu rõ lí do, 
+nguyên nhân tạo nên sản phẩm, đối tượng là ai, công nghệ sử dụng, 
+kiến trúc, sơ đồ, mô hình, cơ sỡ dữ liệu, các luồn dữ liệu chạy 
+như nàocác tính năng và cách thức sử dụng, giao diện và cách tương
+tác lên giao diện mô tả phân bổ công việc các thành viên trong nhóm, 
+đóng góp của từng thành viên, tài liệu tham khảo)
+
+1 bộ slide đầy đủ để thuyết trình chỉnh chu
+=> Tất cả nội dung đặt trong 1 folder nộp vào link thầy gửi sau, 
+update trước khi thuyết trình
+Biết cách sử dụng các kĩ thuật navigation, toolbar,... trong seminar
+Chỉnh sữa 1 vài tính năng nào đó(navigation đảo trang này sang trang kia,
+button chỉ nhận số hoặc chữ, ...)
+
+Show slide trước và trình bày ngắn gọn về các kĩ thuật, chức năng ứng dụng (5-10 phút)
+Định rõ được phần trăm cống hiến của các thành viên trong nhóm (Phải nói liền khi thầy hỏi)
+
